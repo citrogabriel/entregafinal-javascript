@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1, 
+        "descripcion": "Charla de 1 hora",
+        "precio": 8500
+    },
+    {
+        "id": 2, 
+        "descripcion": "Charla de 6 horas",
+        "precio": 45000
+    },
+    {
+        "id": 3, 
+        "descripcion": "Curso semanal",
+        "precio": 123500
+    },
+    {
+        "id": 4, 
+        "descripcion": "Membresia semestral",
+        "precio": 550000
+    },
+    {
+        "id": 5, 
+        "descripcion": "Membresia anual",
+        "precio": 1500000
+    },
+    {
+        "id": 6, 
+        "descripcion": "Membresia empresarial",
+        "precio": 2000000
+    }
+]
